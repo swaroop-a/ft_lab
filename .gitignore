@@ -1,0 +1,15 @@
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/*
+data/processed/*
+outputs/*
+wandb/
+*.safetensors
+*.bin
+*.pt
+*.gguf
+*.txt
+*.gitkeep
